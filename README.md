@@ -1,3 +1,5 @@
+https://github.com/wonseokjung/solopreneur-ai-agents repository를 가저온 데이터입니다. 
+
 # 🚀 Solopreneur AI Agents
 
 > **"혼자 일하지만, 혼자가 아닙니다."**  
